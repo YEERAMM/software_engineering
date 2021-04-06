@@ -3,10 +3,10 @@
 
 int main()
 {
-	char s1[20] = " 9th Symphony";
+	char s1[20] = " 6th Symphony";
 	char s2[40] = "Drovak";
 
-	// 두 배열을 활용하여 Drovak 9th Symphony 문자열을 배열 s2에 저장
+	// 두 배열을 활용하여 Drovak 6th Symphony 문자열을 배열 s2에 저장
 	int pointer = 0;
 	int i = 0;
 
